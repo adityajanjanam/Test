@@ -26,4 +26,3 @@ jobs:
           app-name: TestDeploymentAditya
           publish-profile: ${{ secrets.AZURE_WEB_APP_PUBLISIH_PROFILE }}
           package: .
-          slot-name: .
